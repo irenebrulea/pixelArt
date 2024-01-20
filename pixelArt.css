@@ -1,0 +1,56 @@
+.contenitore1 {
+    width: 75vw;
+    height: 100vh;
+    margin: auto;
+    position: relative;
+}
+
+.contenitore2{
+    padding: 10px 0;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.cella {
+    height: 23px;
+    border: 0.5px solid black;
+}
+
+.sfondo {
+    background-color: rgba(127, 255, 212, 0.945);
+}
+
+.marrone1 {
+    background-color: #986443;
+}
+
+.marrone2 {
+    background-color: #4f3423;
+}
+
+.marrone3 {
+    background-color: #2d1d14;
+}
+
+.pelle {
+    background-color: #f1e6df;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
